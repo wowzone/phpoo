@@ -1,0 +1,13 @@
+
+
+En la programacion orientada a objetos hay que saber aprenderla. pues mantiene tantas funciones que es enredada
+sobretodo para los que nunca han programado y desean aprender, es por ello que se creado un metodo que le puede ayudar 
+a mejorar el aprendizaje de la POO.
+
+Antes de iniciar en este mundo lleno de conocimiento vamos a explicar lo que es la POO. Esta conciste en crear un grupo 
+de Objetos que a su vez tiene atibutos y hacen cosas.
+
+Los objetos se crean atraves de las clases, los atributos son las variables de los objetos que se llaman a traves de los metodos que son funciones y estos a su vez accesan los atributos ya sea de tippo publico, privado o reservado.
+
+para acceder al atributo se usa la palabra magina $this -> nombre del atributo; 
+para instancear una clase se usa la palabra new y el nombre de la clase y finalmente para acceder a los metodos se debe acceder usando el $this-> apuntando al metodo o funcion de la clase.
